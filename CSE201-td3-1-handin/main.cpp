@@ -35,7 +35,7 @@ int main(int argc, char* argv[])
   // This code will be executed only if you set GRADING to a value different from 1
 
   {
-    std::cout << "First Git Commit" << std::endl;
+    std::cout << "New Initial Message" << std::endl;
   }
   // END OF THE CUSTOM CODE SECTION
 #else
